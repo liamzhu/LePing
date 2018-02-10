@@ -1,0 +1,302 @@
+﻿[
+    {
+        "Id": 10000,
+        "OutType": 1,
+        "Title": "断线提示",
+        "Contents": "网络不给力,请尝试重新连接"
+    },
+    {
+        "Id": 10001,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "密码不能为空"
+    },
+    {
+        "Id": 10002,
+        "OutType": 2,
+        "Title": "提示",
+        "Contents": "返回大厅房间将会保留,确定要返回大厅吗?"
+    },
+    {
+        "Id": 10003,
+        "OutType": 2,
+        "Title": "提示",
+        "Contents": "解散房间后房间将被删除,确定要解散房间吗?"
+    },
+    {
+        "Id": 10004,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "此功能正在开发中"
+    },
+    {
+        "Id": 10005,
+        "OutType": 1,
+        "Title": "提示",
+        "Contents": "暂无回放记录,快去与小伙伴一起玩牌吧"
+    },
+    {
+        "Id": 10006,
+        "OutType": 2,
+        "Title": "提示",
+        "Contents": "退出房间后需重新加入房间,确定要退出房间吗?"
+    },
+    {
+        "Id": 10007,
+        "OutType": 2,
+        "Title": "提示",
+        "Contents": "解散房间需要其他人同意,确定要解散房间吗?"
+    },
+    {
+        "Id": 10008,
+        "OutType": 1,
+        "Title": "提示",
+        "Contents": "玩家[{0}]同意解散,解散房间成功"
+    },
+    {
+        "Id": 10009,
+        "OutType": 1,
+        "Title": "提示",
+        "Contents": "玩家[{0}]不同意解散,解散房间失败"
+    },
+    {
+        "Id": 10010,
+        "OutType": 1,
+        "Title": "提示",
+        "Contents": "房间已经被房主解散"
+    },
+    {
+        "Id": 10011,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "推荐码不能为空"
+    },
+    {
+        "Id": 10012,
+        "OutType": 1,
+        "Title": "提示",
+        "Contents": "推荐码绑定成功"
+    },
+    {
+        "Id": 10013,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "账户积分不足"
+    },
+    {
+        "Id": 10014,
+        "OutType": 1,
+        "Title": "-1",
+        "Contents": "服务器未开"
+    },
+    {
+        "Id": 10015,
+        "OutType": 2,
+        "Title": "提示",
+        "Contents": "确定要退出游戏吗?"
+    },
+    {
+        "Id": 10016,
+        "OutType": 2,
+        "Title": "断线",
+        "Contents": "网络断开,是否重新连接"
+    },
+    {
+        "Id": 10017,
+        "OutType": 1,
+        "Title": "网络异常",
+        "Contents": "网络异常,请退出重新登录"
+    },
+    {
+        "Id": 10018,
+        "OutType": 1,
+        "Title": "提示",
+        "Contents": "授权错误:{0}"
+    },
+    {
+        "Id": 10019,
+        "OutType": 1,
+        "Title": "提示",
+        "Contents": "获取用户信息错误:{0}"
+    },
+    {
+        "Id": 10020,
+        "OutType": 1,
+        "Title": "提示",
+        "Contents": "当前网络连接不可用,请检查网络设置后重试"
+    },
+    {
+        "Id": 10021,
+        "OutType": 3,
+        "Title": "网络重连",
+        "Contents": "正在重连中..."
+    },
+    {
+        "Id": 10022,
+        "OutType": 1,
+        "Title": "提示",
+        "Contents": "暂无回放"
+    },
+    {
+        "Id": 1010,
+        "OutType": 1,
+        "Title": "提示",
+        "Contents": "您已经在房间中,不能重复加入房间"
+    },
+    {
+        "Id": 1011,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "创建房间失败"
+    },
+    {
+        "Id": 1012,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "加入房间失败"
+    },
+    {
+        "Id": 1013,
+        "OutType": 1,
+        "Title": "提示",
+        "Contents": "房间号不存在,请重新输入"
+    },
+    {
+        "Id": 1014,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "离开房间失败"
+    },
+    {
+        "Id": 1015,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "不在房间中"
+    },
+    {
+        "Id": 1016,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "该用户不在房间中"
+    },
+    {
+        "Id": 1017,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "踢人失败"
+    },
+    {
+        "Id": 1018,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "不是房主"
+    },
+    {
+        "Id": 1019,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "准备、取消准备失败"
+    },
+    {
+        "Id": 1020,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "获取房间信息失败"
+    },
+    {
+        "Id": 1021,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "获取房间消息失败"
+    },
+    {
+        "Id": 1022,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "获取用户数据失败"
+    },
+    {
+        "Id": 1023,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "正在游戏中"
+    },
+    {
+        "Id": 1024,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "开始游戏失败"
+    },
+    {
+        "Id": 1025,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "有人没准备"
+    },
+    {
+        "Id": 1026,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "申请解散房间失败"
+    },
+    {
+        "Id": 1100,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "获取游戏数据失败"
+    },
+    {
+        "Id": 1101,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "游戏行为失败"
+    },
+    {
+        "Id": 1102,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "房间不在游戏状态中"
+    },
+    {
+        "Id": 1103,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "房间游戏结束"
+    },
+    {
+        "Id": 1104,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "余额不足"
+    },
+    {
+        "Id": 1105,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "绑定代理商失败"
+    },
+    {
+        "Id": 1106,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "代理商不存在"
+    },
+    {
+        "Id": 9000,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "登录失败"
+    },
+    {
+        "Id": 9001,
+        "OutType": 9,
+        "Title": "-1",
+        "Contents": "账号已被冻结"
+    },
+    {
+        "Id": 9002,
+        "OutType": 2,
+        "Title": "提示",
+        "Contents": "客户端需要更新,是否去更新?"
+    }
+]

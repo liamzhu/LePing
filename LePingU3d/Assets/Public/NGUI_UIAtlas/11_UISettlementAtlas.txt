@@ -1,0 +1,132 @@
+{"frames": {
+
+"btn_share.png":
+{
+	"frame": {"x":1,"y":1,"w":367,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":367,"h":95},
+	"sourceSize": {"w":367,"h":95}
+},
+"btn_type.png":
+{
+	"frame": {"x":370,"y":1,"w":367,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":367,"h":95},
+	"sourceSize": {"w":367,"h":95}
+},
+"btn_gameover.png":
+{
+	"frame": {"x":739,"y":1,"w":367,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":367,"h":95},
+	"sourceSize": {"w":367,"h":95}
+},
+"bg_account_4.png":
+{
+	"frame": {"x":1108,"y":1,"w":99,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":99},
+	"sourceSize": {"w":99,"h":99}
+},
+"bigWinner.png":
+{
+	"frame": {"x":1209,"y":1,"w":85,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":100},
+	"sourceSize": {"w":85,"h":100}
+},
+"bg_account_3.png":
+{
+	"frame": {"x":1296,"y":1,"w":107,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":107},
+	"sourceSize": {"w":107,"h":107}
+},
+"icon_account_hu.png":
+{
+	"frame": {"x":1405,"y":1,"w":123,"h":123},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":123},
+	"sourceSize": {"w":123,"h":123}
+},
+"gunner.png":
+{
+	"frame": {"x":1530,"y":1,"w":124,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":127},
+	"sourceSize": {"w":124,"h":127}
+},
+"bestGunner.png":
+{
+	"frame": {"x":1656,"y":1,"w":154,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":154},
+	"sourceSize": {"w":154,"h":154}
+},
+"box.png":
+{
+	"frame": {"x":1,"y":157,"w":1860,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1860,"h":168},
+	"sourceSize": {"w":1860,"h":168}
+},
+"Fail.png":
+{
+	"frame": {"x":1,"y":327,"w":522,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":522,"h":200},
+	"sourceSize": {"w":522,"h":200}
+},
+"Victory.png":
+{
+	"frame": {"x":525,"y":327,"w":522,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":522,"h":200},
+	"sourceSize": {"w":522,"h":200}
+},
+"LiuJu.png":
+{
+	"frame": {"x":1049,"y":327,"w":522,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":522,"h":200},
+	"sourceSize": {"w":522,"h":200}
+},
+"icon_account_title_jiesu.png":
+{
+	"frame": {"x":1,"y":529,"w":522,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":522,"h":200},
+	"sourceSize": {"w":522,"h":200}
+},
+"bg_account_2.png":
+{
+	"frame": {"x":525,"y":529,"w":387,"h":580},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":387,"h":580},
+	"sourceSize": {"w":387,"h":580}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "11_UISettlementAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:91cb30bac0fb0549d70da89dc49cad28:a0272f6225eadb0075b914a5fd4cb43a:ae884872b13324d03d60183a15ba2729$"
+}
+}

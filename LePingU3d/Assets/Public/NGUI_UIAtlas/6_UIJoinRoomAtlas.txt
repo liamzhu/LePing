@@ -1,0 +1,124 @@
+{"frames": {
+
+"input_room_no.png":
+{
+	"frame": {"x":1,"y":1,"w":157,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":157,"h":34},
+	"sourceSize": {"w":157,"h":34}
+},
+"btn_num_5.png":
+{
+	"frame": {"x":160,"y":1,"w":248,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":248,"h":86},
+	"sourceSize": {"w":248,"h":86}
+},
+"btn_num_2.png":
+{
+	"frame": {"x":410,"y":1,"w":248,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":248,"h":87},
+	"sourceSize": {"w":248,"h":87}
+},
+"btn_num_8.png":
+{
+	"frame": {"x":660,"y":1,"w":248,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":248,"h":85},
+	"sourceSize": {"w":248,"h":85}
+},
+"btn_num_0.png":
+{
+	"frame": {"x":1,"y":90,"w":248,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":248,"h":87},
+	"sourceSize": {"w":248,"h":87}
+},
+"btn_num_7.png":
+{
+	"frame": {"x":251,"y":90,"w":257,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":85},
+	"sourceSize": {"w":257,"h":85}
+},
+"btn_num_1.png":
+{
+	"frame": {"x":510,"y":90,"w":257,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":87},
+	"sourceSize": {"w":257,"h":87}
+},
+"btn_num_4.png":
+{
+	"frame": {"x":1,"y":179,"w":257,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":86},
+	"sourceSize": {"w":257,"h":86}
+},
+"btn_reset.png":
+{
+	"frame": {"x":260,"y":179,"w":257,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":87},
+	"sourceSize": {"w":257,"h":87}
+},
+"btn_num_9.png":
+{
+	"frame": {"x":519,"y":179,"w":259,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":259,"h":85},
+	"sourceSize": {"w":259,"h":85}
+},
+"btn_num_6.png":
+{
+	"frame": {"x":1,"y":268,"w":259,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":259,"h":86},
+	"sourceSize": {"w":259,"h":86}
+},
+"btn_num_3.png":
+{
+	"frame": {"x":262,"y":268,"w":259,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":259,"h":87},
+	"sourceSize": {"w":259,"h":87}
+},
+"btn_del.png":
+{
+	"frame": {"x":523,"y":268,"w":259,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":259,"h":87},
+	"sourceSize": {"w":259,"h":87}
+},
+"other4.png":
+{
+	"frame": {"x":1,"y":357,"w":504,"h":3},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":504,"h":3},
+	"sourceSize": {"w":504,"h":3}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "6_UIJoinRoomAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:745bbd2f9fbf2550406c3fe4bb9c27c6:95390211032bda4dae8d2de54cf98269:ed15772d95def6ee02691f1b30619091$"
+}
+}
